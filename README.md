@@ -1,5 +1,5 @@
 # asu_module_1
-# Xiaoming Wang, 11/5/2022
+# Xiaoming Wang, created by 11/5/2022
 
 # Instructions of the assignment :(Skip to step 3)
 # Conduct your research, using the case study template as a guide;
@@ -36,11 +36,20 @@
 
 * What specific financial problem is the company or project trying to solve?
 
+# Goldman Sachs' Marcus is trying to solve the problem with private customers' online banking needs and they provide several financial management products to customers such as certificate deposit, personal loans, ect.
+
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+
+# The intended costomer of Marcus by Goldman Sachs is retailed customers who may not have millons of cash but are willing to be the online banking users.
+# Since launch, Marcus has grown into a multiproduct platform, with $50 billion in deposits, $5 billion in consumer loan balances and four million customers in the United States and the United Kingdom — all without the traditional brick-and-mortar branch model. 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
+# As what I personally experienced their product comparing with other online banking services, the online customer service (chat in Marcus App) is more efficient and easier than other online banking apps, while the Marcus app also provided secure protection. For example, other online banking customer services may use a bot or structured Q&A to respond your messages, which would lead you to a step by step way to solve problems; Marcus, meanwhile, they respond more quickly than other paltforms and direct your question to a certain solution. Then I read an article in their website about how Goldman Sachs think about involving AI technology into human resource, that's something I believe not only a real human responded me behind the screen but the future of machine learning in financial technology.
+
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
+
+# 
 
 
 ## Landscape
@@ -88,3 +97,8 @@
 
 
 ## Resource: 1. https://www.goldmansachs.com/our-firm/history/moments/2016-marcus.html
+##           2. https://www.marcus.com/us/en
+##           3. https://www.cnet.com/personal-finance/banking/marcus-by-goldman-sachs-banking-review/
+##           4. https://www.marcus.com/us/en/resources/heard-at-gs/artificial-intellegence-at-work
+##           5. https://www.ayco.com/homepage.html?s_kwcid=AL!16644!3!621380231975!e!!g!!ayco%20goldman%20sachs&gclid=CjwKCAiA9qKbBhAzEiwAS4yeDdWvC2rmGYbLA1IsmMH6Gtjo4xhmXpeutvKyAwijR_tueXUvf4dQ8hoCTBkQAvD_BwE&gclsrc=aw.ds
+##
